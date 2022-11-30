@@ -14,6 +14,7 @@ header {
 }
 .container-links {
   background: #cccccc;
+  height: 350px;
 }
 .link-title {
   color: #b1005d;
